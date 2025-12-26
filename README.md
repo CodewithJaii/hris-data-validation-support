@@ -48,3 +48,21 @@ The dataset contains employee-level HR information, including:
 - Built measures for total employees, attrition count, and attrition rate
 - Calculations mirror SQL-based logic used earlier in the project
 
+## Insights
+- Overall attrition rate is approximately 16%, with notable variation across job levels, departments, and work conditions.
+- Job Level 1 roles show the highest attrition rate, indicating increased turnover risk among early-career or entry-level employees.
+- Employees working overtime exhibit significantly higher attrition compared to those who do not, suggesting workload or work-life balance as a contributing factor.
+- Sales and Human Resources departments experience higher attrition rates than Research & Development.
+- Attrition is highest among employees with 0–1 years of tenure, then stabilizes as tenure increases.
+- Lower job satisfaction and work-life balance ratings correlate with higher attrition rates.
+- Younger age groups (18–25) show higher attrition compared to mid-career employees
+
+## Recommendations
+- Prioritize retention strategies for early-tenure employees, particularly within the first year of employment.
+- Review overtime practices and workload distribution to reduce burnout-related attrition.
+- Conduct targeted engagement and support initiatives for departments with elevated attrition rates.
+- Use job satisfaction and work-life balance metrics as early indicators for retention risk.
+- Incorporate regular HRIS data validation checks to ensure attrition reporting remains accurate and reliable.
+- Leverage standardized SQL queries and Power BI measures to support ongoing workforce monitoring and decision-making
+
+
