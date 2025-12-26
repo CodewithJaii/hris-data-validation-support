@@ -36,3 +36,15 @@ The dataset contains employee-level HR information, including:
 - Attrition analysis for workforce planning
 - Supporting HR dashboards or audits
 - Pre-processing data for analytics tools
+
+## Power BI Transformations
+- Renamed columns for readability
+- Applied currency formatting to compensation fields
+- Replaced numeric ratings with business-friendly labels
+- No analytical logic performed in Power BI
+
+## Power BI Calculations
+- Created row-level flags for attrition and overtime
+- Built measures for total employees, attrition count, and attrition rate
+- Calculations mirror SQL-based logic used earlier in the project
+
